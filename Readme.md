@@ -1,1 +1,1 @@
-Please Redirect to: gsl.ramidev.tech
+(Please Redirect to:)[https://gsl.ramidev.tech]
