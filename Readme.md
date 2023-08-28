@@ -1,1 +1,1 @@
-(Grocery Shopping List live demo:) [https://gsl.ramidev.tech]
+(Grocery Shopping List live demo:)[https://gsl.ramidev.tech]
